@@ -11,3 +11,4 @@ Project Flow:
 - Streamlined integration with PowerBI, resulting in error-free data querying and modeling.
 - Transformed datasets into actionable insights by developing interactive Power BI dashboards.
 
+Note: Demonstration of AWS could not be possible due to restricted resources.
